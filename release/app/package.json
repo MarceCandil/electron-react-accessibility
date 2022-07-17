@@ -1,4 +1,5 @@
 {
+  "name": "electron-react-accessibility",
   "version": "4.6.0",
   "license": "MIT",
   "main": "./dist/main/main.js",
